@@ -1,0 +1,4 @@
+Use Raspberry pi to replace chromecast.
+Current solution:
+VLC can play many network files, including RTSP stream, ftp, even youtube.
+Utilize the ability of VLC to play video files from youtube, files from home server and streams from survillance camera.
