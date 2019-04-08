@@ -1,0 +1,5 @@
+Use Raspberry Pi as SIP phone.
+Current solution:
+Use twikle as SIP client. 
+Use voip.ms as provider
+Write script to call twikle CLI to control the phone call and SMS
