@@ -3,3 +3,7 @@ Current solution:
 Use twikle as SIP client. 
 Use voip.ms as provider
 Write script to call twikle CLI to control the phone call and SMS
+
+
+Additional idea:
+Utilize SIPPhone to send alarm when there is an incident triggered by camera or home security system.
